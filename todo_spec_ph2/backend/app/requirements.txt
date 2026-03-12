@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+psycopg[binary]
+python-dotenv
+passlib
+bcrypt
+python-jose
